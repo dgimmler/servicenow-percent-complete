@@ -2,7 +2,7 @@
 ## UI Formatter to display percentage bar on ServiceNow forms
 
 ### Intro:
-![Screenshot](https://raw.githubusercontent.com/dgimmler/servicenow-percent-complete/blob/master/Percentage%20Bars.png)
+![Screenshot](https://github.com/dgimmler/servicenow-percent-complete/blob/master/Percentage%20Bars.png?raw=true)
 
 ServiceNow offers a really cool percentage bar display for fields of type "Percent Complete" in the list view. However, it's always really bothered me that nothing is available on the forms themselves - you just get another field on the form.
 
